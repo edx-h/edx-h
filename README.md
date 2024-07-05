@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome to Xinjie (Edward) HU's code space! </h2>
+<h2 align="center"> Welcome to Edward HU's code space! </h2>
 
 <h3 align="center"> Personal website 👉 https://xinjie-h.github.io/ </h3>
 
