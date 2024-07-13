@@ -35,11 +35,12 @@ DB w/ AI, DB w/ OS
 [![](https://img.shields.io/badge/-Torch-e74a2b?style=flat-square&logo=pytorch&logoColor=ffffff)](https://pytorch.org/)
 | Category      | Framework      |
 | ------------- | ------------- |
+|Build & Test|[![](https://img.shields.io/badge/-Bazel-43A047?style=flat-square&logo=bazel&logoColor=ffffff)](https://bazel.build/)|
 |API|[![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)](https://fastapi.tiangolo.com/) w/ [![](https://img.shields.io/badge/-Pydantic-e92063?style=flat-square&logo=pydantic&logoColor=ffffff)](https://docs.pydantic.dev/latest/) [![](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=ffffff)](https://swagger.io/)|
 
 # Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinjie-h)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinjieh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edx-h)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinjieh&layout=compact&hide=yaml,text,typescript,ruby,csv,xml,liquid,scss,json,other,git%20config)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
