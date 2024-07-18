@@ -36,6 +36,7 @@ DB w/ AI, DB w/ OS
 | Category      | Framework      |
 | ------------- | ------------- |
 |Build & Test|[![](https://img.shields.io/badge/-Bazel-43A047?style=flat-square&logo=bazel&logoColor=ffffff)](https://bazel.build/)|
+|CI/CD|[![](https://img.shields.io/badge/-GithubActions-2088FF?style=flat-square&logo=githubactions&logoColor=ffffff)]() [![](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=ffffff)]()|
 |API|[![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)](https://fastapi.tiangolo.com/) w/ [![](https://img.shields.io/badge/-Pydantic-e92063?style=flat-square&logo=pydantic&logoColor=ffffff)](https://docs.pydantic.dev/latest/) [![](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=ffffff)](https://swagger.io/)|
 
 # Stats:
