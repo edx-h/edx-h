@@ -41,7 +41,7 @@ DB w/ AI, DB w/ OS
 
 # Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edx-h)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinjieh&layout=compact&hide=makefile,json,json5,cmake,sshconfig,ssh_config,yaml,text,typescript,ruby,csv,xaml,markdown,xml,liquid,toml,scss,ssh,json,other,git%20config)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinjieh&langs_count=5&layout=compact&hide=makefile,json,json5,cmake,sshconfig,bash,ssh%20config,docker,yaml,text,typescript,ruby,csv,xaml,markdown,xml,liquid,toml,scss,ssh,json,other,git%20config)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
