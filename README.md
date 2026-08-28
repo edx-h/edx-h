@@ -1,17 +1,26 @@
-<h2 align="center"> Welcome to Xinjie (Edward) HU's code space! </h2>
+<h2 align="center"> Welcome to Xinjie (Edward) HU's personal space! </h2>
 
-<h2 align="center"> ⏰ Highlights: [One paper](https://www.vldb.org/pvldb/vol19/p3772-miao.pdf) accepted to VLDB 2026! </h2>
+<h2 align="center"> ⏰ Highlights: Our <a href="https://www.vldb.org/pvldb/vol19/p3772-miao.pdf">work</a> on benchmarking materialized view query rewriting pipeline is accepted to VLDB 2026! </h2>
 
-# About me
-- I am currently a 3rd year CS PhD candidate at Simon Fraser University, Canada.
-- I received my bachelor's degree from the Southern University of Science and Technology (SUSTech), China.
-- I worked as a product manager and a data engineer at Sohu (搜狐), China three several years. I designed and built the engine and data-governance system for the advertising business.
-- Actively looking for collaborations and internships. My resume:
-- Contact: xha102@sfu.ca
+# Contact
+- Resume
+- Email: xha102@sfu.ca
+
+# Now
+- I am currently a CS PhD candidate at Simon Fraser University, Canada.
+- Actively looking for internships and collaborations. My focus:
+    - next generation OLAP system
+    - AI infrastructure with CUDA
+ 
+# Past
+- I received my bachelor's degree from the Southern University of Science and Technology (SUSTech 南方科技大学), China.
+- I worked as a product manager and a data engineer at Sohu (搜狐), China for three years. I designed and built the engine and data-governance system for the advertising business.
 
 # Research Interests:
-- AI for DB optimization (currently focusing on materialized view)
-- GPU (currently focusing on AI4DB task scheduling optimization)
+- AI for DB optimization: currently focusing on materialized view.
+  - VLDB 2026: <a href="https://www.vldb.org/pvldb/vol19/p3772-miao.pdf">Benchmarking the Full Pipeline of Materialized-View-Based Query Rewriting</a> (**Xinjie Hu**, Zhengjie Miao)
+  - 
+- AI infrastructure: CUDA, parallel  (currently focusing on AI4DB task scheduling optimization)
 
 # Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edx-h)](https://github.com/anuraghazra/github-readme-stats)
